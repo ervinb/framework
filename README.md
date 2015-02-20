@@ -1,4 +1,4 @@
-Cubex Framework
+Qubex Framework
 =========
 [![Latest Stable Version](https://poser.pugx.org/cubex/framework/version.png)](https://packagist.org/packages/cubex/framework) [![Total Downloads](https://poser.pugx.org/cubex/framework/d/total.png)](https://packagist.org/packages/cubex/framework) [![Build Status](https://travis-ci.org/cubex/framework.png)](https://travis-ci.org/cubex/framework) [![Dependency Status](https://www.versioneye.com/php/cubex:framework/badge.png)](https://www.versioneye.com/php/cubex:framework)
 
